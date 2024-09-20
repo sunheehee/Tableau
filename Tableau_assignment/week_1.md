@@ -349,3 +349,7 @@ T|F : 부울
 바로 읍면동의 경계를 가지고 있는 shp, geojson 등 공간파일을 원본데이터와 머지하는 것입니다.
 
 링크: https://subinze.tistory.com/m/2
+
+![](../image/1주차/image.png)
+
+해냇따..
