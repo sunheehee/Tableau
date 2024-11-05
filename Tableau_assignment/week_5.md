@@ -552,3 +552,7 @@ END
 ![alt text](<../image/5주차/문제2 결과_수량.png>) 
 
 ![alt text](<../image/5주차/문제2 결과_수익.png>)
+
+
+### 답이 맞는지 모르겟써효ㅠ
+![alt text](../image/5주차/핑구.png)
