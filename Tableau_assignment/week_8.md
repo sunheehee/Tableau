@@ -38,13 +38,17 @@ https://public.tableau.com/app/profile/.49295191/viz/WHOARETHEBILLIONAIRES/1?pub
 
 ![alt text](<../image/8주차/대시보드 2.png>)
 
-국가를 선택하면, 그 국가의 부자 순위와 어떠한 산업에서의 순자산비율이 높은지를 확인해볼 수 있다.
+국가를 선택하면, 그 국가의 부자 순위와 어떠한 산업에서의 순자산비율이 높은지를 확인해볼 수 있습니다.
+
+---
 
 **동작 2. Person name 필터**
 
 ![alt text](<../image/8주차/대시보드 3.png>)
 
 순위에 있는 부자의 막대차트에 마우스를 오버하면 그 부자가 어떤 산업군에서 일하고 있는지를 확인할 수 있습니다.
+
+---
 
 **3. 트리맵 드릴다운 구현**
 
@@ -53,6 +57,8 @@ https://public.tableau.com/app/profile/.49295191/viz/WHOARETHEBILLIONAIRES/1?pub
 트리맵 워크시트에서 industries -> organization으로의 드릴다운을 구현해, 해당 산업군을 이루고 있는 조직(회사)의 순자산 비율을 볼 수 있도록 하였습니다.
 
 하지만 null값이 차지하는 것이 커서 완전한 드릴다운이 이루어지지 않는점이 살짝 아쉬운 점입니다.
+
+---
 
 **동작 3. industries 필터**
 
